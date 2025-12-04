@@ -6,7 +6,6 @@ I currently work in academic publishing and I'm on a journey to become a **Data 
 ## 🛠 Skills
 - **Data Analysis & Visualisation:** Excel, Power BI, Visual Macros
 - **Databases & Queries:** SQL
-- **Other Tools:** [Any other relevant tools you want to add]
 
 ## 🎯 Goals
 - Build practical projects to sharpen my data analysis skills  
