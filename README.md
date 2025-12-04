@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋, I'm Wai
 
-<!--
-**waichan44/waichan44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 About Me
+I currently work in academic publishing and I'm on a journey to become a **Data Analyst**. I enjoy working on projects that involve **automation, dashboards, and data visualisation**.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- **Data Analysis & Visualisation:** Excel, Power BI, Visual Macros
+- **Databases & Queries:** SQL
+- **Other Tools:** [Any other relevant tools you want to add]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goals
+- Build practical projects to sharpen my data analysis skills  
+- Automate workflows and create insightful dashboards  
+- Transition into a full-time data analyst role
+
+## 📫 Connect with Me
+- LinkedIn: [Wai](https://www.linkedin.com/in/waiyc/)
